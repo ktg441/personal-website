@@ -1,2 +1,2 @@
-# personal-website
-Portfolio showcasing who I am and what I can do
+# Kiran's Website
+My portfolio website
